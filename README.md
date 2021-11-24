@@ -1,1 +1,1 @@
-# imbalanced-classification
+# Imbalanced Classification
